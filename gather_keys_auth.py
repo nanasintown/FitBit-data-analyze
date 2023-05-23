@@ -32,6 +32,7 @@ class OAuth2Server:
             redirect_uri=redirect_uri,
             timeout=10,
         )
+        print(self.fitbit)
 
         self.redirect_uri = redirect_uri
 
