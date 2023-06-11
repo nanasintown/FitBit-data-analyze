@@ -105,5 +105,5 @@ if __name__ == "__main__":
     # save_as_csv("calories_data.csv", calories_data)
 
     # activity summary
-    activity_summary = wr.get_activities_log("2023-05-01", "2023-05-31")
-    save_as_csv("activity_may_summary.csv", activity_summary)
+    # activity_summary = wr.get_activities_log("2023-05-01", "2023-05-31")
+    # save_as_csv("activity_may_summary.csv", activity_summary)
